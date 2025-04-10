@@ -6,7 +6,7 @@ A simple yet fun **Tic Tac Toe** game built with HTML, CSS, and JavaScript. Chal
 
 ## 🎮 Live Demo
 
-👉 [Click here to play the game](#)  
+👉(https://sonaliworkspace.github.io/Play-Tic-tac-toe-/)(#)  
 *(Add your hosted link here: GitHub Pages, Netlify, or Vercel)*
 
 ---
