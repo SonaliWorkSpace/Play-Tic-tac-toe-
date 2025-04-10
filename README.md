@@ -3,11 +3,9 @@
 A simple yet fun **Tic Tac Toe** game built with HTML, CSS, and JavaScript. Challenge your friends in this classic 2-player game with sound effects and a clean UI!
 
 ---
-
 ## 🎮 Live Demo
 
-👉(https://sonaliworkspace.github.io/Play-Tic-tac-toe-/)(#)  
-*(Add your hosted link here: GitHub Pages, Netlify, or Vercel)*
+👉 [Play Tic-Tac-Toe](https://sonaliworkspace.github.io/Play-Tic-tac-toe/)  
 
 ---
 
