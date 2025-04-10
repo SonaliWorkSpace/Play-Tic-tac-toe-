@@ -1,7 +1,7 @@
 console.log("Are you ready to play ?")
-let music = new Audio("music.mp3.xspf")
-let audioTurn = new Audio("tingtong.mp3.xspf")
-let gameover = new Audio("gameover.mp3.xspf")
+let music = new Audio("music.mp3")
+let audioTurn = new Audio("tingtong.mp3")
+let gameover = new Audio("gameover.mp3")
 let turn = "X"
 let gameOver = false;
 
